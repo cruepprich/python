@@ -13,3 +13,5 @@ n = 5.6
 c = "Whiskers"
 print "%s had %r kittens" % (c,n)
 random_grue()
+
+print "yowsa"
