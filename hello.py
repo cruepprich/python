@@ -8,7 +8,7 @@ def random_grue():
 	if n > 0.5:
 		print "The Grue is here!"
 
-print "Hello curel world!"
+print "Hello awesome world!"
 n = 5.6
 c = "Whiskers"
 print "%s had %r kittens" % (c,n)
