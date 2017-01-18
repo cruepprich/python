@@ -1,5 +1,5 @@
 import random
-
+'''comment1
 def random_grue():
 	''' boolean. appers half the time '''
 	n = random.random()
